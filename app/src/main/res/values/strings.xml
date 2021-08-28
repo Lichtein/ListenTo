@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListenTo</string>
+    <string name="ImageView">Введите URL картинку</string>
+
+</resources>
